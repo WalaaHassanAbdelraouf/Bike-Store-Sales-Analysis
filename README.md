@@ -23,6 +23,16 @@ The dashboard is designed to help business teams quickly identify patterns in cu
 - Present findings using visually appealing charts and KPIs
 - Make the dashboard user-friendly using slicers and filters
 
+---
+
+#🛠️ Tools & Techniques Used
+- Excel Features
+- Pivot Tables
+- Pivot Charts
+- Slicers & Timelines
+- Data Cleaning using Power Query
+- Chart Design & KPI Cards
+
 
 
 
