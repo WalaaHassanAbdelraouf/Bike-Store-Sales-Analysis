@@ -25,7 +25,7 @@ The dashboard is designed to help business teams quickly identify patterns in cu
 
 ---
 
-#🛠️ Tools & Techniques Used
+# 🛠️ Tools & Techniques Used
 - Excel Features
 - Pivot Tables
 - Pivot Charts
